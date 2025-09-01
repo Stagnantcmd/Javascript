@@ -40,17 +40,36 @@ idd:3
 }
 ]
 
-console.log(user)
-console.log(Object.keys(user))
+// console.log(user)
+// console.log(Object.keys(user))
 //we can get value of keys in array
 
-console.log(Object.values(user))
+// console.log(Object.values(user))
 //we can also get values in array
 
-console.log(Object.entries(user))
+// console.log(Object.entries(user))
 //make array of single key and value
 
 
 
-console.log(user.hasOwnProperty('roll'))
+// console.log(user.hasOwnProperty('roll'))
 //check if that value is present and give result in boolean
+
+/*
+---------API----------
+
+api has this format and the values are in STRING
+
+{
+"name":"sttre",
+"age":22
+}
+
+
+OR
+
+[
+{},{}
+]
+
+*/
