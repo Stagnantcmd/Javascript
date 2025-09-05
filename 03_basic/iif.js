@@ -17,3 +17,5 @@ console.log(`your vale is ${num}`)
 ((hangle=>{
     console.log(`hell ${hangle}`)
 }))('tyota')
+
+
